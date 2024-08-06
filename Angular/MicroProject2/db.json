@@ -1,0 +1,28 @@
+{
+  "Student": [
+    {
+      "id": "01",
+      "name": "Gokul",
+      "course": "JAVA FSD",
+      "fees": "2000"
+    },
+    {
+      "id": "02",
+      "name": "Karthi",
+      "course": "DataStructures",
+      "fees": 5000
+    },
+    {
+      "id": "03",
+      "name": "Gopi",
+      "course": "AIML",
+      "fees": 6000
+    },
+    {
+      "name": "Deepak",
+      "id": "04",
+      "course": "UIUXDESIGN",
+      "fees": 50000
+    }
+  ]
+}
